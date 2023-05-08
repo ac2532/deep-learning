@@ -1,4 +1,4 @@
-# deep-learning
+# Deep Learning
 
 ## regression_softmax_classifier
 
